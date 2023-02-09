@@ -4,7 +4,7 @@ This repository contains a simple implementation of the classic word guessing ga
 <h2>Requirements</h2>
 A C++ compiler
 <h2>How to Play</h2>
-Clone the repository to your local machine using git clone https://github.com/[username]/hangman-cpp.git
+Clone the repository to your local machine using git clone https://github.com/hemanth-kumar-boddeda/HangMan-Console-Game/blob/main/HangMan/hangman.cpp
 
 Navigate to the repository directory and compile the program using the following command:
 
